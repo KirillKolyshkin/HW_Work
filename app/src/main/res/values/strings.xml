@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">WebSocketApp</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_deviceid">Your deviceId</string>
+    <string name="btn_start_text">Ну че народ, погнали?</string>
+    <string name="message">enter your message here</string>
+    <string name="send">отправить</string>
 </resources>
